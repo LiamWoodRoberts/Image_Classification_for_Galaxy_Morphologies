@@ -2,7 +2,7 @@
 
 ---
 
-![](images/sky-space-dark-galaxy.jpeg)
+![](images/sky-space-dark-galaxy.jpg)
 
 This project involoved the development of a custom convolutional neural network in order to classify different galaxy morphologies.
 
@@ -24,7 +24,7 @@ Images in the data set were all 412x412 RGB images:
 
 Survey Responses were given in csv format:
 
-![](images/sample_labels.png)
+![](images/SampleImage.png)
 
 ## Prerequisites
 
