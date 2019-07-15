@@ -2,7 +2,7 @@
 
 ---
 
-![](images/sky-space-dark-galaxy.jpg)
+<center>![](images/sky-space-dark-galaxy.jpg)</center>
 
 This project involoved the development of a custom convolutional neural network in order to classify different galaxy morphologies.
 
