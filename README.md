@@ -27,18 +27,8 @@ Survey Responses were given in csv format:
 ## Prerequisites
 
 This repo is executed solely in python and requires the following imports to run:
-  
-import tensorflow 
- 
-import keras
-  
-import numpy
-  
-import skimage
-  
-import matplotlib
-  
-import pandas
+
+![](images/import.png)
 
 ## Project Summary:
 
