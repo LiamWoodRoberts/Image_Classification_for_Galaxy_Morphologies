@@ -22,7 +22,7 @@ Images in the data set were all 412x412 RGB images:
 
 Survey Responses were given in csv format:
 
-![](images/SampleImage.png)
+![](images/sample_labels.png)
 
 ## Prerequisites
 
