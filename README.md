@@ -26,9 +26,7 @@ Survey Responses were given in csv format:
 
 ## Prerequisites
 
-This repo is executed solely in python and makes use of the following packages:
-
-<code>
+This repo is executed solely in python and requires the following imports to run:
   
 import tensorflow 
  
@@ -40,7 +38,7 @@ import skimage
   
 import matplotlib
   
-import pandas</code>
+import pandas
 
 ## Project Summary:
 
