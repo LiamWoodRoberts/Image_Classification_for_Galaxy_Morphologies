@@ -18,7 +18,7 @@ The data set contained images as well as normalized survey responses for the Gal
 
 Images in the data set were all 412x412 RGB images:
 
-![](images/sample_galaxy.png)
+![](images/sample_galaxy2.png)
 
 Survey Responses were given in csv format:
 
