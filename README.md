@@ -17,9 +17,9 @@ The data set contained images as well as normalized survey responses for the Gal
 
 ![](images/GalaxtZooTree.png)
 
-Initial Images in the data set were all 412x412x3, which were cropped to 169x169x3:
+Initial Images in the data set were all formatted to 412x412x3:
 
-![](images/sample_galaxies3x3.png)
+![](images/raw_images_sample.png)
 
 Survey Responses were given in csv format:
 
