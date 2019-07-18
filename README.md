@@ -4,7 +4,7 @@
 
 This project involoved the development of a custom convolutional neural network in order to classify different galaxy morphologies.
 
-The final model can be fully trained using the files contained within the project_package folder and the publically available data set.
+The final model can be fully trained using the files contained within the **project_package** folder and the publically available data set (see below).
 
 ## Data Set:
 ---
