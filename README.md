@@ -53,5 +53,5 @@ The model was trained on a 4 core macbook pro for 2 hours and was able to identi
 
 ![](images/model_performance.png)
 
-## Authors
+## Author
 - Liam Wood Roberts
