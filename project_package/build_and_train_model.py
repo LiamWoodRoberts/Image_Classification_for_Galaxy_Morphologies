@@ -32,7 +32,7 @@ def create_model(input_shape,output_shape):
     model.add(Dense(output_shape, activation='softmax'))
     return model
 
-def train_model(model,generator,params):
+def train_model(model,generator,params,save=True):
     '''Accepts a keras.model, a generator object and model parameters (from
         model_params.py).
 
@@ -49,6 +49,9 @@ def train_model(model,generator,params):
     model.fit_generator(generator=generator,
                         steps_per_epoch=steps_per_epoch,
                         epochs=epochs)
+    if save:
+        model.save('galaxy_morphology_predictor.h5')
+        
     return model
 
 def get_batch_shape(generator):
