@@ -30,7 +30,10 @@ The only value that needs to be updated is the folder_path. Set this to whatever
 
 ### Model Training
 
-Models can be trained by running the file **build_and_train_model.py**. Parameters for training can be altered by adjusting their values in the **model_params.py** file.
+Models can be trained by running the file **build_and_train_model.py**. Parameters for training can be altered by adjusting their values in the **model_params.py** file. Architecture for model is available below:
+
+![](images/cnn_model_summary.png)
+
 
 ### Generating Predictions
 
