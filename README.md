@@ -43,13 +43,19 @@ As the number of images being taken to survey surrounding galaxies increases the
 
 The architecture used ended up being based on the architecture of AlexNet, one of the first CNNs to demonstrate their usefulness for image classification tasks. The final architecture and parameters are shown below.
 
-![](images/cnn_model_summary.png)
+![](project_package/images/final_model_summary.png)
 
-The model utilizes sub sampling on the first three convolutional layers in order to make training feasible on a conventional laptop.
+The model utilizes sub sampling on the first three convolutional layers in order to make training feasible on a conventional laptop. The model converges after ~7 Passes through the data settling on a RMSE around 10.7.
+
+![](project_package/images/loss_history.png)
+
 
 ## Results:
 
-The model was trained on a 4 core macbook pro for 2 hours and was able to identify whether a particular galaxy was smooth, contained features, or was a star/artifact with an accuracy of ~84%. 
+The final model was trained on 55000 images and valiated on the remaining 6000. The submission scores 0.10758 on kaggle which would put it in 68th position (Bronze). 
+
+![](project_package/images/kaggle_score.png)
+
 
 ![](images/model_performance.png)
 
