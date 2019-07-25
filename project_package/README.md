@@ -18,6 +18,14 @@ Submission for the Galaxy Zoo Challenge on Kaggle (http://www.kaggle.com/c/galax
 
 **predictions.csv:** Prediction file for kaggle competition. Default places 68th / Bronze postion.
 
+**requirements.txt**: Text file indicating required python environment packages to run all files included in project_package folder. 
+
+
+### Requirements
+Project is executed entirely in python. Requires, keras, sklearn, numpy,pandas, and skimage. More information available in requirements.txt. Environment can be downloaded through:
+
+<code> pip install -r requirements.txt </code>
+
 ### Download Data:
 
 All data used is available publically at:
