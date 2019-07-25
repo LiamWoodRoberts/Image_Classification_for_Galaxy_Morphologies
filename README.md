@@ -57,7 +57,5 @@ The final model was trained on 55000 images and valiated on the remaining 6000. 
 ![](project_package/images/kaggle_score.png)
 
 
-![](images/model_performance.png)
-
 ## Author
 - Liam Wood Roberts
